@@ -3,5 +3,5 @@
 ## OpenHarmony
 
 ## App 开发
-### arkts
-### c++
+### ArkTS
+### C++
